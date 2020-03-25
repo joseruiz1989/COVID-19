@@ -3,7 +3,7 @@
     {
       "tensorName": "My tensor",
       "tensorShape": [
-        83334,
+        833340,
         50
       ],
       "tensorPath": "https://raw.githubusercontent.com/joseruiz1989/COVID-19/master/w2v50_tensor.tsv",
