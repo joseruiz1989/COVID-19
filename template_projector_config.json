@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "http://www.covid.ica.ele.puc-rio.br/wp-content/uploads/2020/03/w2v50_tensor.txt",
-      "metadataPath": "http://www.covid.ica.ele.puc-rio.br/wp-content/uploads/2020/03/w2v50_tensor.txt"
+      "tensorPath": "https://github.com/joseruiz1989/COVID-19/blob/master/w2v50_tensor.tsv",
+      "metadataPath": "https://github.com/joseruiz1989/COVID-19/blob/master/w2v50_metadata.tsv"
     }
   ]
 }
