@@ -1,0 +1,14 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        83334,
+        50
+      ],
+      "tensorPath": "http://www.ica.ele.puc-rio.br/wp-content/uploads/2020/03/w2v50_tensor.tsv",
+      "metadataPath": "http://www.ica.ele.puc-rio.br/wp-content/uploads/2020/03/w2v50_metadata.tsv"
+    }
+  ]
+}
+
