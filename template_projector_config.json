@@ -6,8 +6,8 @@
         83334,
         50
       ],
-      "tensorPath": "https://github.com/joseruiz1989/COVID-19/blob/master/w2v50_tensor.tsv",
-      "metadataPath": "https://github.com/joseruiz1989/COVID-19/blob/master/w2v50_metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/joseruiz1989/COVID-19/master/w2v50_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/joseruiz1989/COVID-19/master/w2v50_metadata.tsv"
     }
   ]
 }
