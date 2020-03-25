@@ -7,7 +7,7 @@
         50
       ],
       "tensorPath": "https://raw.githubusercontent.com/joseruiz1989/COVID-19/master/w2v50_tensor.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/joseruiz1989/COVID-19/master/w2v50_metadata.tsv"
+      "metadataPath": "https://raw.githubusercontent.com/joseruiz1989/COVID-19/master/w2v50_metadata.tsv",
       "bookmarksPath": "https://raw.githubusercontent.com/joseruiz1989/COVID-19/master/w2v50_bookmarks.txt"
     }
   ]
