@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        83334,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/joseruiz1989/COVID-19/master/w2v50_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/joseruiz1989/COVID-19/master/w2v50_metadata.tsv"
+    }
+  ]
+}
